@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 
@@ -268,7 +268,7 @@ def write_output(resultati, acc, chrm):
                    (sum(sites_per_island) / len(sites_per_island))]
 
     return outline
-        
+
 
 #%% MAIN
 
